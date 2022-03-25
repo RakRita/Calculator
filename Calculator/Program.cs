@@ -46,8 +46,4 @@ while (true) {
 Console.WriteLine("GoodBye");
 Console.ReadLine();
 
-double a = 4.5;
-double b = 7.5;
-double c = a + b;
-Console.WriteLine("$hej," +c);
 
